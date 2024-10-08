@@ -1,3 +1,4 @@
-Dataset Link :- https://www.kaggle.com/mlg-ulb/creditcardfraud
+Deploying credit card fraud prediction model on Web app using Flask and hosted it on AWS.
+
 
 
